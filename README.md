@@ -9,7 +9,7 @@ Generalist, polyglot, with strong expertise in full-stack web development.
 I also have some DevOps experience, configuring CI/CD, AWS infrastructure (both manual and using CloudFormation) and managing dedicated Linux servers.
 
 Main tech stack:
- - Languages: JavaScript/TypeScript, C#, Python, Go, SQL
+ - Languages: JavaScript/TypeScript, C/C++/C#, Python, Go, SQL
  - Frontend: React/Redux/MobX (worked with many other frameworks in the past)
  - Backend: Node.js, .NET, Python (Django, Flask), Go
  - Databases: PostgreSQL, MongoDB, ElasticSearch, Redis, DynamoDB, Neo4j
