@@ -9,16 +9,16 @@ Generalist, polyglot, with strong expertise in full-stack web development.
 I also have some DevOps experience, configuring CI/CD, AWS infrastructure (both manual and using CloudFormation) and managing dedicated Linux servers.
 
 Main tech stack:
- - Languages: JavaScript/TypeScript, C/C++/C#, Python, Go, SQL
- - Frontend: React/Redux/MobX (worked with many other frameworks in the past)
- - Backend: Node.js, .NET, Python (Django, Flask), Go
+ - Languages: JavaScript/TypeScript, Rust, Go, C#, also familiar with C/C++ and Python
+ - Frontend: React/Redux/MobX (worked with many other frameworks and libraries in the past)
+ - Backend: Node.js, .NET, Python (Django, Flask), Go, Rust
  - Databases: PostgreSQL, MongoDB, ElasticSearch, Redis, DynamoDB, Neo4j
  - DevOps: Docker, Kubernetes, Linux, AWS, Jenkins, Github Actions, Gitlab
  - Other: ELK, Jaeger, Prometheus, Grafana, OpenTelemetry
 
 I love learning new stuff, so in my free time I usually play with:
 - new languages (Rust lately, but did some Ruby, Racket, and ML in the past)
-- Graphics programming using C++ (OpenGL, UnrealEngine, raytracing)
+- Graphics programming using C++ (OpenGL, tiny bit of UnrealEngine, raytracing)
 - IoT (Arduino, ESP8082), MicroPython, C, C++
 - 3D printing
 
